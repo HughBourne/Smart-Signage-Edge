@@ -1,0 +1,5 @@
+name: 'Smart Signage'
+packageKey: 'Smart-Signage'
+permissions:
+  lan: {}
+  discovery: {}
